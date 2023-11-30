@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "5f1dce21-8be4-1e15-c845-aeb4baa73cfb",
+    "title": "Prevalence of medical diagnoses in a hospital: the number of hospital stays per MDC (Medical Diagnostic Category) (2009) : Classic hospitalization (Nederlandstalige versie)",
+    "description": "This data provides more information about the diseases for which patients are admitted to hospital. The patients are divided into 25 categories based on their main diagnosis. Each MDC corresponds to an organ system or etiology and is usually associated with a particular medical specialty. A distinction is made between a classic hospitalization and a day hospitalization.",
+    "publisher": "Federal Public Service Public Health, Food Chain Safety and Environment",
+    "downloadURL": "https://github.com/healthfacts/distributions_fpshealth_mhd_mdc/blob/main/fpshealth_mhd_mdc_2009_Klassieke_hospitalisatie_nl.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_fpshealth_mhd_mdc/blob/main/fpshealth_mhd_mdc_2009_Klassieke_hospitalisatie_nl.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 1950837,
+    "modificationDate": "2023-11-23 14:22:08",
+    "status": "completed",
+    "language": "nl",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://www.health.belgium.be/nl/mzg-publicaties-Prevalentie-van-ziektebeelden-in-een-ziekenhuis; https://www.health.belgium.be/fr/rhm-publications-Prevalence-des-tableaux-cliniques-en-milieu-hospitalier",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "fd84cedd-6629-46a2-812f-8b05c040ee2b",
+        "title": "Prevalence of medical diagnoses in a hospital: the number of hospital stays per MDC (Medical Diagnostic Category)",
+        "landingPage": "https://www.health.belgium.be/nl/mzg-publicaties-Prevalentie-van-ziektebeelden-in-een-ziekenhuis; https://www.health.belgium.be/fr/rhm-publications-Prevalence-des-tableaux-cliniques-en-milieu-hospitalier",
+        "contactPoint": "FPS Public Health, Food Chain Safety and Environment, Directorate General of Healthcare, Data and Policy Information Service, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "adhoc_admDM@health.fgov.be"
+    }
+}
